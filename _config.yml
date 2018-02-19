@@ -81,7 +81,7 @@ author:
   name             : "Anastasia Borovykh"
   avatar           : "foto.png"
   bio              : "PhD Student"
-  location         : ""
+  location         : 
   employer         :
   googlescholar    : "https://scholar.google.it/citations?user=6y1FmgQAAAAJ&hl=it&oi=ao"
   email            : "borovykh_a@hotmail.com"
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
