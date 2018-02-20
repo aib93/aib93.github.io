@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD Student at the University of Bologna in Applied Mathematics. I have obtained my Master's degree in Quantitative Finance at the VU Amsterdam and my Bachelor's degree in Applied Mathematics from the Delft University of Technology. 
+I am currently pursuing a PhD at the University of Bologna in Financial Mathematics as part of the Horizon2020 WakeUpCall project under the supervision of Prof. Andrea Pascucci and Prof. Cornelis W. Oosterlee. I have obtained my Master's degree in Quantitative Finance at the VU Amsterdam and my Bachelor's degree in Applied Mathematics from the Delft University of Technology. 
 
 **Research interests:**
 
