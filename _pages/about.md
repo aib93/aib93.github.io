@@ -20,7 +20,7 @@ Financial mathematics, Machine learning (Neural networks, Gaussian processes, Ba
 <ul>
 <li>Understanding neural networks: loss surface structure; generalisation bounds; optimization algorithms; the links between neural networks and PDEs; neural networks in a limiting setting (Gaussian process behavior, interacting particle systems)</li>
 
-<li>Applications of neural networks in financial applications and engineering applications: solving PDEs; time series forecasting<\li>
+<li>Applications of neural networks in financial applications and engineering applications: solving PDEs; time series forecasting</li>
 
 <ul>
 
