@@ -66,13 +66,13 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 80px;
-  height: 80px;
+  width: 100px;
+  height: 100px;
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
-    height: auto;
+    width: 100px;
+    height: 100px;
   }
 
   img {
@@ -90,7 +90,7 @@
   display: table-cell;
   vertical-align: top;
   padding-left: 10px;
-  padding-right: 15px;
+  padding-right: 25px;
   line-height: 1;
 
   @include breakpoint($large) {
