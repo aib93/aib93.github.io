@@ -30,4 +30,4 @@ Machine learning (Neural networks, Gaussian processes, Bayesian modelling), Appl
 <h4>News:</h4>
 <ul>
 <li><p style="font-size:15px"><b>March 2019 </b> "Generalization in neural networks for time series forecasting" will be presented at the SIAM Conference on Financial Mathematics and Engineering in Toronto, Canada, June 2019</p></li>
-<ul>
+</ul>
