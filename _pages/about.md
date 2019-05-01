@@ -23,6 +23,6 @@ Financial mathematics, Machine learning (Neural networks, Gaussian processes, Ba
 
 <h5>My current work in machine learning:</h5>
 <ul>
-<li><p style="font-size:1px"><b>Understanding neural networks:</b> loss surface structure; generalisation bounds; optimization algorithms; the links between neural networks and PDEs; neural networks in a limiting setting (Gaussian process behavior, interacting particle systems)</p></li>
-<li><p style="font-size:1px"><b>Applications of neural networks in financial applications and engineering applications:</b> solving PDEs; time series forecasting, option pricing, calibration </p></li>
+<li><p style="font-size:15px"><b>Understanding neural networks:</b> loss surface structure; generalisation bounds; optimization algorithms; the links between neural networks and PDEs; neural networks in a limiting setting (Gaussian process behavior, interacting particle systems)</p></li>
+<li><p style="font-size:15px"><b>Applications of neural networks in financial applications and engineering applications:</b> solving PDEs; time series forecasting, option pricing, calibration </p></li>
 <ul>
