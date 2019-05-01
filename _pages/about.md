@@ -9,7 +9,9 @@ redirect_from:
 ---
 <p style="font-size:15px">
 I am currently a postdoctoral researcher at the CWI (Centrum Wiskunde & Informatica) in Amsterdam. My research interests are in the domain of machine learning, applied probability, and partial differential equations. My current focus is on the theoretical aspects of neural networks, understanding how and why they work, and their applications in mathematical finance and engineering. 
+</p>
 
+<p style="font-size:15px">
 I obtained my PhD cum laude from the University of Bologna in Financial Mathematics as part of the Marie-Curie Industrial Doctorates and Horizon2020 project WakeUpCall under the supervision of Prof. Andrea Pascucci and Prof. Cornelis W. Oosterlee. I have obtained my Master's degree in Quantitative Finance at the VU Amsterdam and my Bachelor's degree in Applied Mathematics from the Delft University of Technology. 
 </p>
 
