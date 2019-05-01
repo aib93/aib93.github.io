@@ -25,7 +25,7 @@ Machine learning (Neural networks, Gaussian processes, Bayesian modelling), Appl
 <ul>
 <li><p style="font-size:15px"><b>Understanding neural networks:</b> loss surface structure; generalisation bounds; optimization algorithms; the links between neural networks and PDEs; neural networks in a limiting setting (Gaussian process behavior, interacting particle systems)</p></li>
 <li><p style="font-size:15px"><b>Applications of neural networks in financial applications and engineering applications:</b> solving PDEs; time series forecasting, option pricing, calibration </p></li>
-<ul>
+</ul>
 
 <h4>News:</h4>
 <ul>
