@@ -334,13 +334,13 @@
 }
 
 .comment__avatar {
-  width: 80px;
-  height: 80px;
+  width: 100px;
+  height: 100px;
   border-radius: 50%;
 
   @include breakpoint($large) {
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     padding: 5px;
     border: 1px solid $border-color;
   }
