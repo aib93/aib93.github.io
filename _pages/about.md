@@ -15,13 +15,13 @@ I am currently a postdoctoral researcher at the CWI (Centrum Wiskunde & Informat
 I obtained my PhD cum laude from the University of Bologna in Financial Mathematics as part of the Marie-Curie Industrial Doctorates and Horizon2020 project WakeUpCall under the supervision of Prof. Andrea Pascucci and Prof. Cornelis W. Oosterlee. I have obtained my Master's degree in Quantitative Finance at the VU Amsterdam and my Bachelor's degree in Applied Mathematics from the Delft University of Technology. 
 </p>
 
-<h3>Research interests:</h3>
+<h5>Research interests:</h5>
 <p style="font-size:15px">
 Financial mathematics, Machine learning (Neural networks, Gaussian processes, Bayesian modelling), Applied probability, PDEs, Stochastic processes, Interacting Particle Systems
 </p>
 
 
-<h3>My current work in machine learning:</h3>
+<h5>My current work in machine learning:</h5>
 <p style="font-size:1px">
 <ul>
 <li><b>Understanding neural networks:</b> loss surface structure; generalisation bounds; optimization algorithms; the links between neural networks and PDEs; neural networks in a limiting setting (Gaussian process behavior, interacting particle systems)</li>
