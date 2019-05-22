@@ -29,5 +29,8 @@ Machine learning (Neural networks, Gaussian processes, Bayesian modelling), Appl
 
 <h4>News:</h4>
 <ul>
+<li><p style="font-size:15px"><b>May 2019 </b> "Generalization in fully-connected neural networks for time series forecasting" got accepted to the <a href="http://roseyu.com/time-series-workshop/" style="text-decoration:underline;"> ICML Time Series Workshop</a></p></li>
+<li><p style="font-size:15px"><b>May 2019 </b> "The effects of optimization on generalization in infinitely wide neural networks" got accepted to the <a href="https://sites.google.com/view/icml2019-generalization/home" style = "text-decoration:underline;">ICML Workshop on Understanding and Improving Generalization in Deep Learning</a></p></li>
 <li><p style="font-size:15px"><b>March 2019 </b> "Generalization in neural networks for time series forecasting" will be presented at the SIAM Conference on Financial Mathematics and Engineering in Toronto, Canada, June 2019</p></li>
 </ul>
+
