@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 <p style="font-size:15px">
-I am currently a postdoctoral researcher at the CWI (Centrum Wiskunde & Informatica) in Amsterdam. My research interests are in the domain of machine learning, applied probability, and partial differential equations. My current focus is on the theoretical aspects of neural networks, understanding how and why they work, and their applications in mathematical finance and engineering. Furthermore, I am interested in the applications of neural networks in finance, optimization and smart cities. 
+I am currently a postdoctoral researcher at Imperial College in London. Before this I was a postdoc at the CWI (Centrum Wiskunde & Informatica) in Amsterdam. My research interests are in (large-scale) optimization and applied probability and their applications in machine learning. I am interested in applying these theoretical insights to contribute to explainable and human-centered AI, and the safe and ethical use of large datasets. 
 </p>
 
 <p style="font-size:15px">
 I obtained my PhD cum laude from the University of Bologna in Financial Mathematics as part of the Marie-Curie Industrial Doctorates and Horizon2020 project WakeUpCall under the supervision of Prof. Andrea Pascucci and Prof. Cornelis W. Oosterlee. I have obtained my Master's degree in Quantitative Finance at the VU Amsterdam and my Bachelor's degree in Applied Mathematics from the Delft University of Technology. 
 </p>
 
-<h3>My current work in machine learning:</h3>
+<h3>My current work:</h3>
 <ul>
-<li><p style="font-size:15px"><b>Understanding neural networks:</b> loss surface structure; generalization bounds; optimization algorithms; the links between neural networks and PDEs; neural networks in a limiting setting (Gaussian process behavior, interacting particle systems)</p></li>
-<li><p style="font-size:15px"><b>Applications of neural networks in finance, smart cities and engineering:</b> solving PDEs; time series forecasting, option pricing and calibration, optimizing processes in smart cities </p></li>
+<li><p style="font-size:15px"><b>Optimization:</b> the development of stable and robust optimization algorithms</p></li>
+<li><p style="font-size:15px"><b>Neural networks:</b> analytical expressions for the network output under simplifying assumptions, loss surface, the effects of the optimization method and its hyperparameters </p></li>
+<li><p style="font-size:15px"><b>Applications:</b> the development of machine learning methods which are robust, human-centered, explainable and take into account privacy and ethical constraints; applciations of machine learning in smart cities and finance </p></li>
 </ul>
 
 <h3>News:</h3>
