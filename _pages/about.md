@@ -19,7 +19,7 @@ I obtained my PhD cum laude from the University of Bologna in Financial Mathemat
 <ul>
 <li><p style="font-size:15px"><b>Optimization:</b> the development of stable and robust optimization algorithms</p></li>
 <li><p style="font-size:15px"><b>Neural networks:</b> analytical expressions for the network output under simplifying assumptions, loss surface, the effects of the optimization method and its hyperparameters </p></li>
-<li><p style="font-size:15px"><b>Applications:</b> the development of machine learning methods which are robust, human-centered, explainable and take into account privacy and ethical constraints; applciations of machine learning in smart cities and finance </p></li>
+<li><p style="font-size:15px"><b>Applications:</b> the development of machine learning methods which are robust, human-centered, explainable and take into account privacy and ethical constraints; applications of machine learning in smart cities and finance </p></li>
 </ul>
 
 <h3>News:</h3>
