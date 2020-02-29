@@ -13,7 +13,7 @@ I am currently a postdoctoral researcher at Imperial College in London. Before t
 
 
 <p style="font-size:15px">
-I obtained my PhD cum laude from the University of Bologna in Financial Mathematics as part of a Marie-Curie EID project. I have obtained my Master's degree in Quantitative Finance at the VU Amsterdam and my Bachelor's degree in Applied Mathematics from the Delft University of Technology. 
+I obtained my PhD cum laude from the University of Bologna in Financial Mathematics as part of a Marie-Curie ITN-EID project. I have obtained my Master's degree in Quantitative Finance at the VU Amsterdam and my Bachelor's degree in Applied Mathematics from the Delft University of Technology. 
 </p>
 
 <p style="font-size:15px">
