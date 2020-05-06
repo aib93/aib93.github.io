@@ -244,6 +244,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      comment: true
   # _code
   - scope:
       path: ""
@@ -252,6 +253,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comment: true
   # _research
   - scope:
       path: ""
@@ -260,6 +262,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comment: true
       
 # Sass/SCSS
 sass:
