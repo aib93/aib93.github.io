@@ -22,7 +22,6 @@ For our work on smart mobility using digital twins with Skialabs, see <a href="h
 
 <h3>News:</h3>
 <ul>
-<li><p style="font-size:15px"><b>May 2019 </b> "Generalization in fully-connected neural networks for time series forecasting" got accepted to the <a href="http://roseyu.com/time-series-workshop/" style="text-decoration:underline;"> ICML Time Series Workshop</a></p></li>
-<li><p style="font-size:15px"><b>May 2019 </b> "The effects of optimization on generalization in infinitely wide neural networks" got accepted to the <a href="https://sites.google.com/view/icml2019-generalization/home" style = "text-decoration:underline;">ICML Workshop on Understanding and Improving Generalization in Deep Learning</a></p></li>
+<li> Our work <p style="font-size:15px"><a href="https://sites.google.com/view/optml-icml2020/accepted-papers" style="text-decoration:underline;"> To interact or not? The convergence properties of interacting stochastic mirror descent </a> together with N. Kantas, P. Parpas, and G. Pavliotis has been accepted to <i> <a href="https://sites.google.com/view/optml-icml2020/" style = "text-decoration:underline;"> Workshop on "Beyond first-order methods in ML systems" at 36th International Conference on Machine Learning (ICML) 2020</a></i><br> </li>
 </ul>
 
